@@ -1,0 +1,12 @@
+{
+  "name": "Run NPM Build & Test",
+  "description": "Run npm build & test. Use the .node-version file to set node version.",
+  "iconName": "npm",
+  "categories": [
+    "Typescript",
+    "JavaScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
