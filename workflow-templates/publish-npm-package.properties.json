@@ -1,0 +1,12 @@
+{
+  "name": "Publish NPM Package",
+  "description": "Publish NPM Package to https://registry.npmjs.org/. Use the .node-version file to set node version.",
+  "iconName": "npm",
+  "categories": [
+    "Typescript",
+    "JavaScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
